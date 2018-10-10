@@ -1,0 +1,108 @@
+.nav-superior{    
+    font-size: 18px;   
+    padding-top: 5px; 
+}
+.nav-item a{
+    color: white;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    color: black;    
+}
+.titulo{
+    padding-left: 40px;   
+    color: white; 
+}
+.fila-1{
+    padding-bottom: 6px;
+    padding-top: 6px;
+    background-color: #34495e;             
+}
+.fondo{    
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../resources/img/img-fondo2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: contain;  
+        
+}
+.fila-2{
+    width: 100%;
+    height: 850px;
+}
+.container-fluid{    
+    padding: 0px;
+    margin: 0px;
+}
+.frase-inicio{
+    text-align: center;
+    color: white;
+    font-size: 45pt;
+    padding-top: 190px;
+}
+.parrafo-inicio{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.buscar-curso{
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 20px;    
+}
+.btn-buscar-curso{
+    background-color: #e74c3c;
+    color: white;
+}
+hr{
+    padding: 0px;
+    margin: 0px;
+}
+.titulo-curso{
+    font-weight: bold;    
+}
+.card{
+    text-align: center;    
+}
+.fila-3{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.fila-5{
+    margin-top: 40px;
+}
+.fila-4, .fila-5{
+    margin-top: 30px;
+}
+.fila-6{    
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;    
+    padding: 50px;
+}
+.fila-contacto{
+    background-color: #636e72;
+    padding: 20px;    
+}
+.footer-link{
+    text-align: center;
+}
+.sql-server{
+    background-color: white;
+}
+.col-idioma{
+    margin-left: 50px;
+}
+.titulo-subscripcion{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20pt;
+    color: white;
+    font-weight: bold;
+}
+.col-ultima{
+    padding-bottom: 30px;
+}
