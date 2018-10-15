@@ -2,11 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.barra-navegacion{
-    background-color: #0abde3;
-    display: flex;
-    align-items: center;
-}
 .frase-inicio{
     color: white;
     font-size: 3.5em;
@@ -37,19 +32,6 @@
     color: white;
     font-weight: bold;
 }
-.menu-superior{
-    justify-content: center;    
-}
-header{
-    margin: auto 0;
-}
-.menu-superior li a{
-    color: white;
-    font-size: 1.1em;
-}
-.menu-superior li a:hover{    
-    color: #636e72;
-}
 .fila-titulo-cursos{
     padding-top: 13%;
     padding-bottom: 2%;
@@ -73,27 +55,6 @@ header{
 }
 hr{
     margin: 0;
-}
-.footer{
-    background-color: #0abde3;
-    padding: 3% 0% 4% 0%;
-}
-.titulo-subscripcion{   
-    padding-top: 2%; 
-    padding-bottom: 2%;
-    text-align: center;
-    font-size: 1.7em;
-}
-.input-subscripcion{
-    width: 50%;
-    margin: 0 auto;
-}
-.menu-footer div li a{
-    color: white;
-    font-size: 1em;
-}
-.menu-footer div li a:hover{
-    color: #222f3e;
 }
 .card-cursos{
     padding-top: 30px;

@@ -1,0 +1,26 @@
+.footer{
+    background-color: #0abde3;
+    padding: 3% 0% 4% 0%;
+}
+.titulo-subscripcion{   
+    padding-top: 2%; 
+    padding-bottom: 2%;
+    text-align: center;
+    font-size: 1.7em;
+}
+.input-subscripcion{
+    width: 50%;
+    margin: 0 auto;
+}
+.menu-footer div li a{
+    color: white;
+    font-size: 1em;
+}
+.menu-footer div li a:hover{
+    color: #222f3e;
+}
+.btn-suscribirse{
+    background-color: #e74c3c;
+    color: white;
+    font-weight: bold;
+}

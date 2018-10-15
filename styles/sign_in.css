@@ -1,0 +1,14 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+.titulo-registrarse{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    text-align: center;
+}
+.form-registro{
+    width: 50%;
+    margin: 0 auto;  
+    margin-bottom: 5%;  
+}

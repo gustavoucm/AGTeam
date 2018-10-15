@@ -1,0 +1,32 @@
+.titulo a:link{
+    color: white;
+    text-decoration: none;
+}
+.titulo a:hover{
+    color: black;
+}
+.titulo a{
+    color: white;
+}
+.dropdown-menu a{
+    color: black;
+}
+.menu-superior{
+    justify-content: center;  
+    padding-right: 0;  
+}
+header{
+    margin: auto 0;
+}
+.menu-superior li a{
+    color: white;
+    font-size: 1.1em;
+}
+.menu-superior li a:hover{    
+    color:black;
+}
+.barra-navegacion{
+    background-color:#34495e;
+    display: flex;
+    align-items: center;
+}

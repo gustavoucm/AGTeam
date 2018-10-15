@@ -1,0 +1,11 @@
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+.iniciar-sesion{
+    text-align: center;
+    padding: 4% 0 4% 0;
+}
+.form-iniciar-sesion{    
+    margin: 0 auto;
+}
